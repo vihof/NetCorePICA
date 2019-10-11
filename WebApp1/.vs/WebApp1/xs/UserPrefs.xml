@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{EBE8D911-FA0C-43C8-A747-2611EEAD8647}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Pages/Index.cshtml" Line="18" Column="1" IsPinned="True" />
+      <File FileName="Data/Migrations/ApplicationDbContextModelSnapshot.cs" Line="26" Column="48" IsPinned="True" />
+      <File FileName="Program.cs" Line="21" Column="56" />
+      <File FileName="Startup.cs" Line="39" Column="86" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="20" Column="29" />
+      <File FileName="Pages/Shared/_LoginPartial.cshtml" Line="15" Column="10" />
+      <File FileName="Controllers/HomeController.cs" Line="15" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApp1" expanded="True">
+            <Node name="WebApp1" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApp1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
